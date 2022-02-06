@@ -9,9 +9,9 @@ NOTA: EN EL ENTORNO ANACONDA SE TIENE QUE INSTALAR LA VERSION DE CUDA INSTALADA 
 conda install -c anaconda cudatoolkit=10.1  
 conda install pip 
 
-(KERAS1) C:\> conda install -c anaconda protobuf.
-(KERAS1) C:\> pip install pillow.
-(KERAS1) C:\> pip install lxml
+1.-(KERAS1) C:\> conda install -c anaconda protobuf
+2.-(KERAS1) C:\> pip install pillow
+3.-(KERAS1) C:\> pip install lxml
 (KERAS1) C:\> pip install Cython
 (KERAS1) C:\> pip install contextlib2
 (KERAS1) C:\> pip install jupyter
